@@ -12,3 +12,13 @@
 
 - Desplegar a producción NODEJS:
 - **_fl0**_
+
+#### MVC
+
+- Modelo
+  - Lógica de negocio
+- Controlador
+  - Orquestador, actua como intermediarios
+- Vista
+  - Interfaz del usuario
+
