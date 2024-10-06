@@ -17,8 +17,17 @@
 
 - Modelo
   - Lógica de negocio
+    - REACT.JS
+    - JSON
+    - NEXT.JS
 - Controlador
   - Orquestador, actua como intermediarios
+    - Leer / Modificar
+    - Enviar
+    - Usar
+    - Iniciar
 - Vista
   - Interfaz del usuario
-
+    - MYSQL
+    - LOCAL
+    - MONGODB
